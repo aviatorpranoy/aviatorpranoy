@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviatorpranoy" alt="aviatorpranoy" /> </p>
 
-<a href="https://www.buymeacoffee.com/pranoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 12px !important;width: 54px !important;" ></a>
+<a href="https://www.buymeacoffee.com/pranoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 24px !important;width: 84px !important;" ></a>
 
 - 🔭 I’m currently working on the [Development of Novel Materials for Hydrogen Storage](https://pranoy.xyz/portfolio.html)
 
