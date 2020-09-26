@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pranoy Ray</h1>
-<h3 align="center">A Materials Science Engineer from NIT-D (India) and a future PhD candidate.</h3>
+<h2 align="center">Hello World!</h1>
+<h1 align="center">I'm Pranoy Ray</h1>
+<h3 align="center">A Materials Science Researcher and a future PhD candidate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviatorpranoy" alt="aviatorpranoy" /> </p>
 
-<center><a href="https://www.buymeacoffee.com/pranoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 24px !important;width: 84px !important;" ></a></center>
+<center><a align="center" href="https://www.buymeacoffee.com/pranoy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 24px !important;width: 84px !important;" ></a></center>
 
 - 🔭 I’m currently working on the [Development of Novel Materials for Hydrogen Storage](https://pranoy.xyz/portfolio.html)
 
